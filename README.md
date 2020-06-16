@@ -1,0 +1,2 @@
+# halite
+Halite kaggle competition
